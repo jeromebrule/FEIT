@@ -1,0 +1,15 @@
+{
+  "name": "FEIT",
+  "version": "0.1.0",
+  "dependencies": {
+
+	},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-compass": "^0.7.2",
+	"load-grunt-tasks": "~0.4.0"
+  }	,
+  "scripts": {
+    "test": "grunt test"
+  }
+}
